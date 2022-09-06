@@ -2,7 +2,7 @@ const atoFeatured = new Array();
 
 atoFeatured[1] = new Object();
 atoFeatured[1]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/stader-kfc003.png";
-atoFeatured[1]["puzzleTitle"]="Find The Phone Number123";
+atoFeatured[1]["puzzleTitle"]="Find The Phone Number david";
 atoFeatured[1]["puzzleSponsorTitle"]="Near Stader";
 atoFeatured[1]["puzzleSponsorImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/near-stader.png";
 atoFeatured[1]["puzzleSponsorWeb"]="https://near.staderlabs.com";
