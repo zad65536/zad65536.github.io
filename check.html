@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Check</title>
+<link rel="stylesheet" type="text/css" href="https://semantic-ui.com/dist/semantic.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
+<script
+  src="https://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+<script src="https://semantic-ui.com/dist/semantic.min.js"></script>
+<script src="https://zad65536.github.io/md5.js"></script>
+<script src="https://zad65536.github.io/aes.js"></script>
+<script src="https://zad65536.github.io/lisbon-puzzle-admin.js?v=20220910a"></script>
+
+<style>
+body{
+}
+</style>
+</head>
+
+<body>
+
+<div class="ui container">
+  <br/>
+  <h1>CHECK</h1>
+
+  <p>input=<input id="ato_md5Input" value="" style="width:70%;" />&nbsp;&nbsp;<button class="ui mini button" style="" onclick="javascript:doMd5();">md5</button></p>
+  <p>output=<span id="ato_md5Output"></p>
+  <br/><br/>
+  
+  <p>input=<input id="ato_aesEncryptInput" value="" style="width:70%;" /></p>
+  <p>key=<input id="ato_aesEncryptKey" value="" style="width:50%;" />&nbsp;&nbsp;<button class="ui mini button" style="" onclick="javascript:doAesEncrypt();">aesEncrypt</button></p>
+  <p>output=<span id="ato_aesEncryptOutput"></span></p>
+  <br/><br/>
+  
+  <p>input=<input id="ato_aesDecryptInput" value="" style="width:70%;" /></p>
+  <p>key=<input id="ato_aesDecryptKey" value="" style="width:50%;" />&nbsp;&nbsp;<button class="ui mini button" style="" onclick="javascript:doAesDecrypt();">aesDecrypt</button></p>
+  <p>output=<span id="ato_aesDecryptOutput"></span></p>
+  <br/><br/>
+
+  <p>input=<input id="ato_verifyInput" value="" style="width:70%;" /></p>
+  <p>password=<input id="ato_verifyPass" value="" style="width:50%;" />&nbsp;&nbsp;<button class="ui mini button" style="" onclick="javascript:doVerify();">verify</button></p>
+  <p>output=<span id="ato_verifyOutput" style="color:green;"></span></p>
+</div>
+
+
+<script>
+
+function doMd5(){
+  $("#ato_md5Output").text("wait...");
+  $("#ato_md5Output").text(CryptoJS.MD5($("#ato_md5Input").val()));
+}
+function doAesEncrypt(){
+  $("#ato_aesEncryptOutput").text("wait...");
+  $("#ato_aesEncryptOutput").text(CryptoJS.AES.encrypt($("#ato_aesEncryptInput").val(), $("#ato_aesEncryptKey").val()));
+}
+function doAesDecrypt(){
+  $("#ato_aesDecryptOutput").text("wait...");
+  $("#ato_aesDecryptOutput").text(CryptoJS.AES.decrypt($("#ato_aesDecryptInput").val(), $("#ato_aesDecryptKey").val()).toString(CryptoJS.enc.Utf8));
+}
+function doVerify(){
+  $("#ato_verifyOutput").text("wait...");
+  var str=$("#ato_verifyInput").val();
+  var pass=$("#ato_verifyPass").val();
+  var list=str.split("**");
+  var id=list[0];
+  var code=list[1];
+
+  var key=CryptoJS.AES.decrypt(atoPuzzleAdmin[id]["answerAesEncrypt"], pass).toString(CryptoJS.enc.Utf8);
+
+  var res=CryptoJS.AES.decrypt(code, key).toString(CryptoJS.enc.Utf8);
+  $("#ato_verifyOutput").text(res);
+}
+
+</script>
+
+</body>
+</html>
