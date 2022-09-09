@@ -1,151 +1,287 @@
+var w=0;
+
+const atoSponsorList= new Array();
+
+w=0;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="xxx";
+atoSponsorList[w]["logo"]="xxx";
+atoSponsorList[w]["web"]="xxx";
+atoSponsorList[w]["twitter"]="xxx";
+
+w=1;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Octopus Network";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/09/octopus-network-oct-logo.png";
+atoSponsorList[w]["web"]="https://oct.network/";
+atoSponsorList[w]["twitter"]="https://twitter.com/oct_network";
+
+w=2;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Debio Network";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/08/debiologo.png";
+atoSponsorList[w]["web"]="https://www.debio.network/";
+atoSponsorList[w]["twitter"]="https://twitter.com/debio_network";
+
+w=3;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Myriad Social";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/08/jHXi6y5_400x400.jpg";
+atoSponsorList[w]["web"]="https://www.myriad.social/";
+atoSponsorList[w]["twitter"]="https://twitter.com/myriad_social";
+
+w=4;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="DEIP";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/08/XRfB1PCu_400x400.png";
+atoSponsorList[w]["web"]="https://deip.world/";
+atoSponsorList[w]["twitter"]="https://twitter.com/deip_world";
+
+w=5;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Unique One Network";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/08/uone-logo-128.png";
+atoSponsorList[w]["web"]="https://www.unique.one/";
+atoSponsorList[w]["twitter"]="https://twitter.com/UniqueOne_UO";
+
+w=6;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="QSTN";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/08/qstn2.jpg";
+atoSponsorList[w]["web"]="https://qstn.us";
+atoSponsorList[w]["twitter"]="https://twitter.com/qstnus";
+
+w=7;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Near Insider";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/09/silver.png";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=8;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Near Master";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/09/silver.png";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=9;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Nearity";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/09/silver.png";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=10;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Near Games Guild";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/09/silver.png";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=11;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Near Nigeria Guild";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/09/silver.png";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=12;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Near Vietnam Guild";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/09/uiNy0Ekh_400x400.jpg";
+atoSponsorList[w]["web"]="https://medium.com/@nearauroravietnam";
+atoSponsorList[w]["twitter"]="https://twitter.com/VietnamNear";
+
+w=13;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Near Malaysia Guild";
+atoSponsorList[w]["logo"]="";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=14;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Near Singapore Guild";
+atoSponsorList[w]["logo"]="";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=15;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Near France Guild";
+atoSponsorList[w]["logo"]="";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=16;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Paras NFT Marketplace";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/09/Rhlq_p3__400x400.png";
+atoSponsorList[w]["web"]="https://paras.id/";
+atoSponsorList[w]["twitter"]="https://twitter.com/ParasHQ";
+
+w=17;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="3six9 NFT Marketplace";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/08/wnP7pqtJ_400x400.jpg";
+atoSponsorList[w]["web"]="https://3six9.space/";
+atoSponsorList[w]["twitter"]="https://twitter.com/3six9OFFICIAL";
+
+w=18;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Ref Finance";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/09/rvJtgIsU_400x400.jpg";
+atoSponsorList[w]["web"]="https://www.ref.finance/";
+atoSponsorList[w]["twitter"]="https://twitter.com/finance_ref";
+
+w=19;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Skyward Finance";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/09/xNPSXV5J_400x400.jpg";
+atoSponsorList[w]["web"]="https://skyward.finance/";
+atoSponsorList[w]["twitter"]="https://twitter.com/skywardfinance";
+
+w=20;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="NEARStarter";
+atoSponsorList[w]["logo"]="";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=21;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Near Stars Guild";
+atoSponsorList[w]["logo"]="";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=22;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Aurora";
+atoSponsorList[w]["logo"]="";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=23;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Near Foundation (NEARCON)";
+atoSponsorList[w]["logo"]="";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=24;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Vision Chain";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/08/W0jkQVDm_400x400.png";
+atoSponsorList[w]["web"]="https://v.network/";
+atoSponsorList[w]["twitter"]="https://twitter.com/Vision_Chain";
+
+w=25;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Skyharbour (The Rust Guild)";
+atoSponsorList[w]["logo"]="";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=26;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="TenkDAO";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/08/profile-img.jpg";
+atoSponsorList[w]["web"]="https://tenkbay.com/";
+atoSponsorList[w]["twitter"]="https://twitter.com/TenKBay";
+
+w=27;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Mr. Brown NFT";
+atoSponsorList[w]["logo"]="";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
+w=28;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Near Misfits";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/09/DggEwqT_400x400.jpg";
+atoSponsorList[w]["web"]="https://nearmisfits.com/";
+atoSponsorList[w]["twitter"]="https://twitter.com/nearmisfits";
+
+w=29;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Together Coin";
+atoSponsorList[w]["logo"]="https://atocha.io/wp-content/uploads/2022/09/um0kcqVO_400x400.jpg";
+atoSponsorList[w]["web"]="https://www.togetherwerule.com/";
+atoSponsorList[w]["twitter"]="https://twitter.com/tgtwtf";
+
+w=30;
+atoSponsorList[w]=new Object();
+atoSponsorList[w]["title"]="Roketo";
+atoSponsorList[w]["logo"]="";
+atoSponsorList[w]["web"]="";
+atoSponsorList[w]["twitter"]="";
+
 const atoFeatured = new Array();
 
-atoFeatured[1] = new Object();
-atoFeatured[1]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/stader-kfc003.png";
-atoFeatured[1]["puzzleTitle"]="Find The Phone Number123";
-atoFeatured[1]["puzzleSponsorTitle"]="Near Stader";
-atoFeatured[1]["puzzleSponsorImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/near-stader.png";
-atoFeatured[1]["puzzleSponsorWeb"]="https://near.staderlabs.com";
-atoFeatured[1]["puzzleSponsorTwitter"]="https://twitter.com/stader__near";
-atoFeatured[1]["puzzleReward"]="...";
-atoFeatured[1]["puzzleRewardAvailable"]=1;
-atoFeatured[1]["puzzleDetail"]="Find the local phone number in 8 digits of this place.";
-atoFeatured[1]["puzzleAnswerFormat"]="All numbers";
-atoFeatured[1]["puzzleAnswerMd5"]="aa0cbbe4ed0f9971984f98462dc1509a";
-atoFeatured[1]["puzzleHidddenMessageAes"]="U2FsdGVkX18S6qZwnR4iZ8fFYX16N9aouTDygYtD2UuwHKk2otwlMppViTPBhJHA/Zl3z5rJGkpeLseL1ARRxlbYQLWsd8LHpi2Y8QA/NSQ=";
-atoFeatured[1]["puzzleIframeUrl"]="";
+w=0;
+atoFeatured[w] = new Object();
+atoFeatured[w]["puzzleImageUrl"]="xxx";
+atoFeatured[w]["puzzleTitle"]="xxx";
+atoFeatured[w]["puzzleSponsorTitle"]=atoSponsorList[0]["title"];
+atoFeatured[w]["puzzleSponsorImageUrl"]=atoSponsorList[0]["logo"];
+atoFeatured[w]["puzzleSponsorWeb"]=atoSponsorList[0]["web"];
+atoFeatured[w]["puzzleSponsorTwitter"]=atoSponsorList[0]["twitter"];
+atoFeatured[w]["puzzleReward"]="...";
+atoFeatured[w]["puzzleDetail"]="xxx";
+atoFeatured[w]["puzzleAnswerFormat"]="xxx";
+atoFeatured[w]["puzzleAnswerMd5"]="xxx";
+atoFeatured[w]["puzzleHidddenMessageAes"]="xxx";
+atoFeatured[w]["puzzleIframeUrl"]="xxx";
+atoFeatured[w]["puzzleCode"]="xxx";
 
-atoFeatured[2] = new Object();
-atoFeatured[2]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/discovol-cofounder.png";
-atoFeatured[2]["puzzleTitle"]="Discovol's co-founder";
-atoFeatured[2]["puzzleSponsorTitle"]="Discovol";
-atoFeatured[2]["puzzleSponsorImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/lwiTfRLJ_400x400.jpg";
-atoFeatured[2]["puzzleSponsorWeb"]="https://discovol.org/";
-atoFeatured[2]["puzzleSponsorTwitter"]="https://twitter.com/Discovol1";
-atoFeatured[2]["puzzleReward"]="...";
-atoFeatured[2]["puzzleRewardAvailable"]=1;
-atoFeatured[2]["puzzleDetail"]="One of Discovol's cofounders is a life scientist, what is his full name in English?";
-atoFeatured[2]["puzzleAnswerFormat"]="All uppercase english letters, not contain numbers, contains spaces";
-atoFeatured[2]["puzzleAnswerMd5"]="094ffdcde45d02d5bb7b6e0e8e423b33";
-atoFeatured[2]["puzzleHidddenMessageAes"]="U2FsdGVkX19U+jfU5Tkb2HV5sUnKRWcdqMmBeLZ7aU201vaFTEtIdNtepIKmCphFPlV7Ms8gsKnBmNetv1VN+YqwQsuRoOTsJ8NjuinITBo=";
-atoFeatured[2]["puzzleIframeUrl"]="";
+w=1;
+atoFeatured[w] = new Object();
+atoFeatured[w]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/09/009667e8-0e47-422c-97d5-5e90cc5a56b8-1.jpg";
+atoFeatured[w]["puzzleTitle"]="Find Intials in Octopus Network Homepage";
+atoFeatured[w]["puzzleSponsorTitle"]=atoSponsorList[1]["title"];
+atoFeatured[w]["puzzleSponsorImageUrl"]=atoSponsorList[1]["logo"];
+atoFeatured[w]["puzzleSponsorWeb"]=atoSponsorList[1]["web"];
+atoFeatured[w]["puzzleSponsorTwitter"]=atoSponsorList[1]["twitter"];
+atoFeatured[w]["puzzleReward"]="$250 worth of OCT, 10 pax, $25 for each";
+atoFeatured[w]["puzzleDetail"]="Go visit Octopus Network website's Appchain page, find initials hidden in the above picture(the exact order displayed in that page).";
+atoFeatured[w]["puzzleAnswerFormat"]="All uppercase english letters, not contain numbers, not contain spaces";
+atoFeatured[w]["puzzleAnswerMd5"]="4f86b426ce222a478a3bbce8268cc9b4";
+atoFeatured[w]["puzzleHidddenMessageAes"]="U2FsdGVkX18/H3bA6WDsZQdKp/J3vcK/aCjbgKVdzqs=";
+atoFeatured[w]["puzzleIframeUrl"]="";
+atoFeatured[w]["puzzleCode"]="octopus";
 
-atoFeatured[3] = new Object();
-atoFeatured[3]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/debio-puzzle.png";
-atoFeatured[3]["puzzleTitle"]="Name One Key Feature of DeBio from this picture";
-atoFeatured[3]["puzzleSponsorTitle"]="Debio";
-atoFeatured[3]["puzzleSponsorImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/debiologo.png";
-atoFeatured[3]["puzzleSponsorWeb"]="https://www.debio.network/";
-atoFeatured[3]["puzzleSponsorTwitter"]="https://twitter.com/debio_network";
-atoFeatured[3]["puzzleReward"]="...";
-atoFeatured[3]["puzzleRewardAvailable"]=1;
-atoFeatured[3]["puzzleDetail"]="Visit DeBio's official website and find one key feature which represented by this picture";
-atoFeatured[3]["puzzleAnswerFormat"]="Uppercase and lowercase English letters, symbol/punctuation/non-english characters, not contain  numbers, not contain  spaces";
-atoFeatured[3]["puzzleAnswerMd5"]="8d076bdd1fdcc721d3705802a183e237";
-atoFeatured[3]["puzzleHidddenMessageAes"]="U2FsdGVkX18M/BQs1tJkVvkaXleG/wfEonz3MTvr7DQt7DRKA9wgYFrtTyFdM7ka7K1OQj0pdqT4ZWm+3JiesUl4lmL3jy6XQlpYG178GzE=";
-atoFeatured[3]["puzzleIframeUrl"]="";
+w=2;
+atoFeatured[w] = new Object();
+atoFeatured[w]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/deip-puzzle.png";
+atoFeatured[w]["puzzleTitle"]="Find the evil robot";
+atoFeatured[w]["puzzleSponsorTitle"]=atoSponsorList[4]["title"];
+atoFeatured[w]["puzzleSponsorImageUrl"]=atoSponsorList[4]["logo"];
+atoFeatured[w]["puzzleSponsorWeb"]=atoSponsorList[4]["web"];
+atoFeatured[w]["puzzleSponsorTwitter"]=atoSponsorList[4]["twitter"];
+atoFeatured[w]["puzzleReward"]="...";
+atoFeatured[w]["puzzleDetail"]="I believe you already know the notorious robot in aboved picture, but you can also find another evil robot in DEIP(the first Web 3.0 Creator Economy Protocol)'s intro video, they do terrible things to the same person!";
+atoFeatured[w]["puzzleAnswerFormat"]="Lowercase English letters, symbol/punctuation characters, contains numbers, contains spaces";
+atoFeatured[w]["puzzleAnswerMd5"]="e03e76af97a66dc9c53f9a5f0b70ddb3";
+atoFeatured[w]["puzzleHidddenMessageAes"]="U2FsdGVkX1+z7R5U6b9UMNySPSRBlHuplnEc1kSBvfs=";
+atoFeatured[w]["puzzleIframeUrl"]="https://www.youtube.com/embed/3R21aHgRATk";
+atoFeatured[w]["puzzleCode"]="deip";
 
-atoFeatured[4] = new Object();
-atoFeatured[4]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/myriad.jpg";
-atoFeatured[4]["puzzleTitle"]="What's the word that recurs on Myriad's homepage and also mentioned in this video?";
-atoFeatured[4]["puzzleSponsorTitle"]="Myriad";
-atoFeatured[4]["puzzleSponsorImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/jHXi6y5_400x400.jpg";
-atoFeatured[4]["puzzleSponsorWeb"]="https://www.myriad.social/";
-atoFeatured[4]["puzzleSponsorTwitter"]="https://twitter.com/myriad_social";
-atoFeatured[4]["puzzleReward"]="...";
-atoFeatured[4]["puzzleRewardAvailable"]=1;
-atoFeatured[4]["puzzleDetail"]="In this video clip,  master sergeant Farrell(the late Bill Paxton) is introducing J squad to major Cage(Tom Cruise), listen to his speech carefully, it contains a recurring word in Myriad's homepage, find it:)";
-atoFeatured[4]["puzzleAnswerFormat"]="All lowercase english letters, not contain numbers, not contain spaces";
-atoFeatured[4]["puzzleAnswerMd5"]="6a2139364f96787c8ce1bbb0070b898c";
-atoFeatured[4]["puzzleHidddenMessageAes"]="U2FsdGVkX187ifiNPIUAeeiYCIp+KjgDN2r5WJGgms6dejfn01mswli0wtLm9w1Ts0dmPUvFKeDt6gDwnh9pw963Z5NrnFITpasDre/WYqo=";
-atoFeatured[4]["puzzleIframeUrl"]="https://www.youtube.com/embed/wXQ6dTw30Gk";
+w=3;
+atoFeatured[w] = new Object();
+atoFeatured[w]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/09/ba29aed8-23cb-4a6b-bf7d-7cd36f5a5220.jpg";
+atoFeatured[w]["puzzleTitle"]="Who is the misfits?";
+atoFeatured[w]["puzzleSponsorTitle"]=atoSponsorList[28]["title"];
+atoFeatured[w]["puzzleSponsorImageUrl"]=atoSponsorList[28]["logo"];
+atoFeatured[w]["puzzleSponsorWeb"]=atoSponsorList[28]["web"];
+atoFeatured[w]["puzzleSponsorTwitter"]=atoSponsorList[28]["twitter"];
+atoFeatured[w]["puzzleReward"]="...";
+atoFeatured[w]["puzzleDetail"]="NEAR Misfits are the first ever crytographically complete series NFT generated on $NEAR. And there is another misfits mentioned in the famous Apple Think Different commercial video, tell us who he/she is.";
+atoFeatured[w]["puzzleAnswerFormat"]="All english letters, not contain numbers, contains spaces";
+atoFeatured[w]["puzzleAnswerMd5"]="d58fee3773b40c54e43c367c7f13f9eb";
+atoFeatured[w]["puzzleHidddenMessageAes"]="U2FsdGVkX18jDa31IMoLb8AgYeCTTlmsLqCWcuDmpyE=";
+atoFeatured[w]["puzzleIframeUrl"]="https://www.youtube.com/embed/-z4NS2zdrZc";
+atoFeatured[w]["puzzleCode"]="misfits";
 
-atoFeatured[5] = new Object();
-atoFeatured[5]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/deip-puzzle.png";
-atoFeatured[5]["puzzleTitle"]="Find the evil robot";
-atoFeatured[5]["puzzleSponsorTitle"]="DEIP";
-atoFeatured[5]["puzzleSponsorImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/XRfB1PCu_400x400.png";
-atoFeatured[5]["puzzleSponsorWeb"]="https://deip.world/";
-atoFeatured[5]["puzzleSponsorTwitter"]="https://twitter.com/deip_world";
-atoFeatured[5]["puzzleReward"]="...";
-atoFeatured[5]["puzzleRewardAvailable"]=1;
-atoFeatured[5]["puzzleDetail"]="I believe you already know the notorious robot in aboved picture, but you can also find another evil robot in DEIP(the first Web 3.0 Creator Economy Protocol)'s intro video, they do terrible things to the same person!";
-atoFeatured[5]["puzzleAnswerFormat"]="Lowercase English letters, symbol/punctuation characters, contains numbers, contains spaces";
-atoFeatured[5]["puzzleAnswerMd5"]="e03e76af97a66dc9c53f9a5f0b70ddb3";
-atoFeatured[5]["puzzleHidddenMessageAes"]="U2FsdGVkX1/dEWsrZE9DvkKMy9+Xa6H8O7RZPVskn3X4C9c1MqD3IGwx52p8QdlIq/Gj5hpXdMLnDYcoUKtNLCYgcKEVrk8MPHnRK4VLbpQ=";
-atoFeatured[5]["puzzleIframeUrl"]="https://www.youtube.com/embed/3R21aHgRATk";
-
-atoFeatured[6] = new Object();
-atoFeatured[6]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/unique-oct.png";
-atoFeatured[6]["puzzleTitle"]="A Unique Octopus Encounter Next Gen";
-atoFeatured[6]["puzzleSponsorTitle"]="Unique.One";
-atoFeatured[6]["puzzleSponsorImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/uone-logo-128.png";
-atoFeatured[6]["puzzleSponsorWeb"]="https://www.unique.one/";
-atoFeatured[6]["puzzleSponsorTwitter"]="https://twitter.com/UniqueOne_UO";
-atoFeatured[6]["puzzleReward"]="...";
-atoFeatured[6]["puzzleRewardAvailable"]=1;
-atoFeatured[6]["puzzleDetail"]="A Unique Octopus Encounter Next Generation commemorates the Fantastical event when the Unique One Network Brings Its Galaxy to the Octopus Network Ecosystem. Can you find out current address of the artist who created this artwork?";
-atoFeatured[6]["puzzleAnswerFormat"]="Uppercase and lowercase English letters, contains numbers, not contain spaces";
-atoFeatured[6]["puzzleAnswerMd5"]="d01c2727c49e8c883ea1e714f49078da";
-atoFeatured[6]["puzzleHidddenMessageAes"]="U2FsdGVkX18iTFuH+XgvgWM62dZNrV10S/T4EJhVsxxeU9wr4QrstgKxFIHZsspxzm/+ZIelvD03yjruPF8hVQdvU+Xqq0kIdmQ3sqnDVyE=";
-atoFeatured[6]["puzzleIframeUrl"]="";
-
-atoFeatured[7] = new Object();
-atoFeatured[7]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/be352674-5428-497b-bbab-9214735b61d3.jpg";
-atoFeatured[7]["puzzleTitle"]="Consider your answer carefully";
-atoFeatured[7]["puzzleSponsorTitle"]="QSTN";
-atoFeatured[7]["puzzleSponsorImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/qstn2.jpg";
-atoFeatured[7]["puzzleSponsorWeb"]="https://qstn.us";
-atoFeatured[7]["puzzleSponsorTwitter"]="https://twitter.com/qstnus";
-atoFeatured[7]["puzzleReward"]="...";
-atoFeatured[7]["puzzleRewardAvailable"]=1;
-atoFeatured[7]["puzzleDetail"]="Check out on QSTN's website, and find out through what consumers can monetize their information, that's  the answer to this puzzle.";
-atoFeatured[7]["puzzleAnswerFormat"]="Uppercase and lowercase English letters, not contain numbers, contains spaces";
-atoFeatured[7]["puzzleAnswerMd5"]="c02750740c302608043e508ee7faa652";
-atoFeatured[7]["puzzleHidddenMessageAes"]="U2FsdGVkX1/RF7UFVuGMjsFT/CcvrpBFrMwlXRuS5+IBdpwXdmzOdaE1nI5syz6L1jlgw5RGoAqIHWafxhNoh66q124C4qrz+Bt119VxMyA=";
-atoFeatured[7]["puzzleIframeUrl"]="";
-
-atoFeatured[8] = new Object();
-atoFeatured[8]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/995e791f-bf25-4ea5-a3a8-aadc3932d7b4.jpg";
-atoFeatured[8]["puzzleTitle"]="V Sees U";
-atoFeatured[8]["puzzleSponsorTitle"]="Vision chain";
-atoFeatured[8]["puzzleSponsorImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/W0jkQVDm_400x400.png";
-atoFeatured[8]["puzzleSponsorWeb"]="https://v.network/";
-atoFeatured[8]["puzzleSponsorTwitter"]="https://twitter.com/Vision_Chain";
-atoFeatured[8]["puzzleReward"]="...";
-atoFeatured[8]["puzzleRewardAvailable"]=1;
-atoFeatured[8]["puzzleDetail"]="Like V sings 'never fade away' in this Cyberpunk 2077 game video, Vision Metaverse Chain's website also mentioned something similar to V's singing, find that setence, it's our puzzle's answer.";
-atoFeatured[8]["puzzleAnswerFormat"]="All uppercase english letters, not contain numbers, contains spaces";
-atoFeatured[8]["puzzleAnswerMd5"]="8b06ccb1d7f2783d5dfb423a70958e30";
-atoFeatured[8]["puzzleHidddenMessageAes"]="U2FsdGVkX1++4VytTI9z+pIa5prhzoBuIEnNergb/YkoaH+l89xsRJHooVjEim6u87PFZlW8rJYDa+T+bqgjEnAnJyM5E+d9v8KymE0zMO0=";
-atoFeatured[8]["puzzleIframeUrl"]="https://www.youtube.com/embed/zzQHsrRk4zE";
-
-atoFeatured[9] = new Object();
-atoFeatured[9]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/bfa73812-0d22-40a4-a362-ce0f8c229d55.jpg";
-atoFeatured[9]["puzzleTitle"]="Find a fun place for kids in TENK";
-atoFeatured[9]["puzzleSponsorTitle"]="TenkBay";
-atoFeatured[9]["puzzleSponsorImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/profile-img.jpg";
-atoFeatured[9]["puzzleSponsorWeb"]="https://tenkbay.com/";
-atoFeatured[9]["puzzleSponsorTwitter"]="https://twitter.com/TenKBay";
-atoFeatured[9]["puzzleReward"]="...";
-atoFeatured[9]["puzzleRewardAvailable"]=1;
-atoFeatured[9]["puzzleDetail"]="TENK DAO is a NFT incubator and promotor, which help artist/devs/marketers get to launch a generative art project on NEAR Protocol. And there is a hungarian village also called Tenk, visit this village in google streetview and find a fun place for kids there, put that place's name as answer.";
-atoFeatured[9]["puzzleAnswerFormat"]="All uppercase english letters, not contain numbers, contains spaces";
-atoFeatured[9]["puzzleAnswerMd5"]="22492042741ce7d50f8193667e20434b";
-atoFeatured[9]["puzzleHidddenMessageAes"]="U2FsdGVkX1/JSzt59j83DRYbRzM6oiwhym1SjwbUqNJudX6kYhz6Spl+ryCRxda9MQGi7kfbyHz5tQUs/rZfalB2BM9U/mXNG9UiFwIQ5Jo=";
-atoFeatured[9]["puzzleIframeUrl"]="https://www.google.com/maps/embed?pb=!4v1661515301357!6m8!1m7!1sYdSl-fsHusUV4mM6Zm4ONg!2m2!1d47.65491763952353!2d20.34091440968903!3f287.19547503649403!4f10.835091205308572!5f0.7820865974627469";
-
-atoFeatured[10] = new Object();
-atoFeatured[10]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/4b463e66-63d4-4f03-85ea-1f81c498beb9.jpg";
-atoFeatured[10]["puzzleTitle"]="What happened on that particular date?";
-atoFeatured[10]["puzzleSponsorTitle"]="3six9";
-atoFeatured[10]["puzzleSponsorImageUrl"]="https://atocha.io/wp-content/uploads/2022/08/wnP7pqtJ_400x400.jpg";
-atoFeatured[10]["puzzleSponsorWeb"]="https://3six9.space/";
-atoFeatured[10]["puzzleSponsorTwitter"]="https://twitter.com/3six9OFFICIAL";
-atoFeatured[10]["puzzleReward"]="...";
-atoFeatured[10]["puzzleRewardAvailable"]=1;
-atoFeatured[10]["puzzleDetail"]="In the most prominent position on the homepage of 3six9 NFT marketplace website, there is a famous quote from Nikola Tesla about the number 3, 6 and 9. On a recent date which is related to Tesla, our sponser's Twitter account(@3six9OFFICIAL) also posted a message, find that tweet, and tell us what happened on that particular day.";
-atoFeatured[10]["puzzleAnswerFormat"]="All english letters, uppercase and lowercase, not contain numbers, contains spaces";
-atoFeatured[10]["puzzleAnswerMd5"]="8d5a76208af06d920d9ddbdfa61fda65";
-atoFeatured[10]["puzzleHidddenMessageAes"]="U2FsdGVkX1/+bY0LNDlyDpEaGWY++dxexZG5WEHpxt8qwdMvNmdVWY/Z67le0PyNr6swehzgzbxgxuo6ERQ7AUDjzJkZeXV0vYG+hZlG9/M=";
-atoFeatured[10]["puzzleIframeUrl"]="";
