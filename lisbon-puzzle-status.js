@@ -5,7 +5,7 @@ id="octopus";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=0;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209090930";
+atoPuzzleStatus[id]["lastUpdateTime"]="202209101404GMT";
 
 id="debio";
 atoPuzzleStatus[id] = new Object();
