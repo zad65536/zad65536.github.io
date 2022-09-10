@@ -14,7 +14,7 @@ atoPuzzleContent[id]["puzzleIframeUrl"]="";
 
 id="octopus";
 atoPuzzleContent[id] = new Object();
-atoPuzzleContent[id]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/09/009667e8-0e47-422c-97d5-5e90cc5a56b8-1.jpg";
+atoPuzzleContent[id]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/2022/09/20593201-0397-4204-8e54-eadc71bcb774.jpg";
 atoPuzzleContent[id]["puzzleTitle"]="Find Intials in Octopus Network Homepage";
 atoPuzzleContent[id]["puzzleReward"]="$250 worth of OCT, 10 pax, $25 for each";
 atoPuzzleContent[id]["puzzleDetail"]="Go visit Octopus Network website's Appchain page, find initials hidden in the above picture(the exact order displayed in that page).";
