@@ -3,15 +3,15 @@ var id;
 
 id="octopus";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=3;
+atoPuzzleStatus[id]["confirmedWinners"]=20;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0456-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0548-GMT";
 
 id="debio";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=4;
+atoPuzzleStatus[id]["confirmedWinners"]=6;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0656-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0548-GMT";
 
 id="myriad";
 atoPuzzleStatus[id] = new Object();
@@ -21,21 +21,21 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0909-2359-GMT";
 
 id="deip";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=3;
+atoPuzzleStatus[id]["confirmedWinners"]=10;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0310-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0548-GMT";
 
 id="unique";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=2;
+atoPuzzleStatus[id]["confirmedWinners"]=7;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0215-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0548-GMT";
 
 id="qstn";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=2;
+atoPuzzleStatus[id]["confirmedWinners"]=7;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0215-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0548-GMT";
 
 id="insider";
 atoPuzzleStatus[id] = new Object();
@@ -129,9 +129,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0909-2359-GMT";
 
 id="aurora";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=3;
+atoPuzzleStatus[id]["confirmedWinners"]=7;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0656-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0548-GMT";
 
 id="foundation";
 atoPuzzleStatus[id] = new Object();
@@ -141,9 +141,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0909-2359-GMT";
 
 id="vision";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=2;
+atoPuzzleStatus[id]["confirmedWinners"]=13;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0656-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0548-GMT";
 
 id="skyharbour";
 atoPuzzleStatus[id] = new Object();
@@ -171,9 +171,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0909-2359-GMT";
 
 id="together";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=1;
+atoPuzzleStatus[id]["confirmedWinners"]=13;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0310-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0548-GMT";
 
 id="roketo";
 atoPuzzleStatus[id] = new Object();
