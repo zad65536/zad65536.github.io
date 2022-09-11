@@ -5,13 +5,13 @@ id="octopus";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=2;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0215-GMT";
 
 id="debio";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=3;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0215-GMT";
 
 id="myriad";
 atoPuzzleStatus[id] = new Object();
@@ -23,19 +23,19 @@ id="deip";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=2;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0215-GMT";
 
 id="unique";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=2;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0215-GMT";
 
 id="qstn";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=2;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0215-GMT";
 
 id="insider";
 atoPuzzleStatus[id] = new Object();
@@ -131,7 +131,7 @@ id="aurora";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=1;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0215-GMT";
 
 id="foundation";
 atoPuzzleStatus[id] = new Object();
