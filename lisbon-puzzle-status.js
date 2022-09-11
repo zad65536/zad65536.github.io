@@ -21,9 +21,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="202209090930";
 
 id="deip";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=2;
+atoPuzzleStatus[id]["confirmedWinners"]=3;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0215-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0310-GMT";
 
 id="unique";
 atoPuzzleStatus[id] = new Object();
@@ -171,9 +171,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="202209090930";
 
 id="together";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=0;
+atoPuzzleStatus[id]["confirmedWinners"]=1;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209090930";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0310-GMT";
 
 id="roketo";
 atoPuzzleStatus[id] = new Object();
