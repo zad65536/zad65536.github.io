@@ -3,7 +3,7 @@ var id;
 
 id="octopus";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=10;
+atoPuzzleStatus[id]["confirmedWinners"]=10; // To max
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
 atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1853-GMT";
 
@@ -21,7 +21,7 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0909-2359-GMT";
 
 id="deip";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=10;
+atoPuzzleStatus[id]["confirmedWinners"]=5; // To max
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
 atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1853-GMT";
 
