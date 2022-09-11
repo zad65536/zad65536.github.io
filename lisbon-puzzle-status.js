@@ -27,7 +27,7 @@ atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
 
 id="unique";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=1;
+atoPuzzleStatus[id]["confirmedWinners"]=2;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
 atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
 
