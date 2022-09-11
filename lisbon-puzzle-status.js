@@ -5,13 +5,13 @@ id="octopus";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=10; // To max
 atoPuzzleStatus[id]["ifOpenForClaiming"]="no";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1853-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1053-GMT";
 
 id="debio";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=5; // To max
 atoPuzzleStatus[id]["ifOpenForClaiming"]="no"; 
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1853-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1053-GMT";
 
 id="myriad";
 atoPuzzleStatus[id] = new Object();
@@ -23,7 +23,7 @@ id="deip";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=5; // To max
 atoPuzzleStatus[id]["ifOpenForClaiming"]="no";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1853-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1053-GMT";
 
 id="unique";
 atoPuzzleStatus[id] = new Object();
@@ -35,7 +35,7 @@ id="qstn";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=5; // To max
 atoPuzzleStatus[id]["ifOpenForClaiming"]="no";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1853-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1053-GMT";
 
 id="insider";
 atoPuzzleStatus[id] = new Object();
@@ -131,7 +131,7 @@ id="aurora";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=5; // To max
 atoPuzzleStatus[id]["ifOpenForClaiming"]="no";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1853-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1053-GMT";
 
 id="foundation";
 atoPuzzleStatus[id] = new Object();
@@ -173,7 +173,7 @@ id="together";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=5; // To max
 atoPuzzleStatus[id]["ifOpenForClaiming"]="no";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1853-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1053-GMT";
 
 id="roketo";
 atoPuzzleStatus[id] = new Object();
