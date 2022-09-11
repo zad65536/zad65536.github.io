@@ -143,7 +143,7 @@ id="vision";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=1;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-0215-GMT";
 
 id="skyharbour";
 atoPuzzleStatus[id] = new Object();
