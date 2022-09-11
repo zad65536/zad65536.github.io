@@ -3,15 +3,15 @@ var id;
 
 id="octopus";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=0;
+atoPuzzleStatus[id]["confirmedWinners"]=2;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209101404GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
 
 id="debio";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=0;
+atoPuzzleStatus[id]["confirmedWinners"]=3;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209090930";
+atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
 
 id="myriad";
 atoPuzzleStatus[id] = new Object();
@@ -21,21 +21,21 @@ atoPuzzleStatus[id]["lastUpdateTime"]="202209090930";
 
 id="deip";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=0;
+atoPuzzleStatus[id]["confirmedWinners"]=2;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209090930";
+atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
 
 id="unique";
 atoPuzzleStatus[id] = new Object();
 atoPuzzleStatus[id]["confirmedWinners"]=1;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209090945";
+atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
 
 id="qstn";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=0;
+atoPuzzleStatus[id]["confirmedWinners"]=2;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209090930";
+atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
 
 id="insider";
 atoPuzzleStatus[id] = new Object();
@@ -129,9 +129,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="202209090930";
 
 id="aurora";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=0;
+atoPuzzleStatus[id]["confirmedWinners"]=1;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209090930";
+atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
 
 id="foundation";
 atoPuzzleStatus[id] = new Object();
@@ -141,9 +141,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="202209090930";
 
 id="vision";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=0;
+atoPuzzleStatus[id]["confirmedWinners"]=1;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="202209090930";
+atoPuzzleStatus[id]["lastUpdateTime"]="202209110215GMT";
 
 id="skyharbour";
 atoPuzzleStatus[id] = new Object();
