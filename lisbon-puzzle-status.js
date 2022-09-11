@@ -3,7 +3,7 @@ var id;
 
 id="octopus";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=20;
+atoPuzzleStatus[id]["confirmedWinners"]=10;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
 atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1853-GMT";
 
