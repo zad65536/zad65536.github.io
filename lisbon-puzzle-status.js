@@ -177,6 +177,6 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1053-GMT";
 
 id="roketo";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=0;
+atoPuzzleStatus[id]["confirmedWinners"]=8;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0909-2359-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-1638-GMT";
