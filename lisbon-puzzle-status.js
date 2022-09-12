@@ -99,9 +99,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0909-2359-GMT";
 
 id="3six9";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=0;
-atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0909-2359-GMT";
+atoPuzzleStatus[id]["confirmedWinners"]=10;
+atoPuzzleStatus[id]["ifOpenForClaiming"]="no";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-1630-GMT";
 
 id="ref";
 atoPuzzleStatus[id] = new Object();
