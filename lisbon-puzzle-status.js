@@ -15,9 +15,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1053-GMT";
 
 id="myriad";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=1;
-atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-1639-GMT";
+atoPuzzleStatus[id]["confirmedWinners"]=10;
+atoPuzzleStatus[id]["ifOpenForClaiming"]="no";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-2332-GMT";
 
 id="deip";
 atoPuzzleStatus[id] = new Object();
