@@ -165,9 +165,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0909-2359-GMT";
 
 id="misfits";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=0;
-atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0909-2359-GMT";
+atoPuzzleStatus[id]["confirmedWinners"]=5;
+atoPuzzleStatus[id]["ifOpenForClaiming"]="no";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-2340-GMT";
 
 id="together";
 atoPuzzleStatus[id] = new Object();
