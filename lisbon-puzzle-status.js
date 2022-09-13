@@ -81,9 +81,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-2337-GMT";
 
 id="singapore";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=0;
+atoPuzzleStatus[id]["confirmedWinners"]=1;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0909-2359-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-1043-GMT";
 
 id="france";
 atoPuzzleStatus[id] = new Object();
