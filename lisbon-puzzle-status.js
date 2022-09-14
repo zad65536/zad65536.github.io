@@ -51,15 +51,15 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-2327-GMT";
 
 id="nearity";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=0;
+atoPuzzleStatus[id]["confirmedWinners"]=5;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
 atoPuzzleStatus[id]["lastUpdateTime"]="2022-0909-2359-GMT";
 
 id="games";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=1;
-atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-2359-GMT";
+atoPuzzleStatus[id]["confirmedWinners"]=5;
+atoPuzzleStatus[id]["ifOpenForClaiming"]="no";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0914-1010-GMT";
 
 id="nigeria";
 atoPuzzleStatus[id] = new Object();
@@ -81,9 +81,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-2337-GMT";
 
 id="singapore";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=1;
-atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-1043-GMT";
+atoPuzzleStatus[id]["confirmedWinners"]=5;
+atoPuzzleStatus[id]["ifOpenForClaiming"]="no";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0914-1010-GMT";
 
 id="france";
 atoPuzzleStatus[id] = new Object();
