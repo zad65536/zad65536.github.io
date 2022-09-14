@@ -110,7 +110,7 @@ atoPuzzleContent[id]["puzzleImageUrl"]="https://atocha.io/wp-content/uploads/202
 atoPuzzleContent[id]["puzzleTitle"]="Name The Partner";
 atoPuzzleContent[id]["puzzleReward"]="5 winners, $5 ATO for each";
 atoPuzzleContent[id]["puzzleDetail"]="Name the most recent collaboration partner of Near Games Guild. You can look it out through the official Twitter link of Near Games Guild.";
-atoPuzzleContent[id]["puzzleAnswerFormat"]="All english letters, not contain numbers, not contain spaces";
+atoPuzzleContent[id]["puzzleAnswerFormat"]="All english letters, not contain numbers, contain spaces";
 atoPuzzleContent[id]["puzzleAnswerMd5"]="69c858b572239b2e5abf21bd52b74955";
 atoPuzzleContent[id]["puzzleHidddenMessageAes"]="U2FsdGVkX1+oQtHcfrwlY7/4SoAdd3dtPUgoi2ehlTc=";
 atoPuzzleContent[id]["puzzleIframeUrl"]="";
