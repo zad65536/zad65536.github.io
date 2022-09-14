@@ -266,7 +266,7 @@ atoPuzzleContent[id]["puzzleDetail"]="1499, Da Gama travelled back to Portugal w
 atoPuzzleContent[id]["puzzleAnswerFormat"]="All lowercase english letters, not contain numbers, contain spaces, only 5 words";
 atoPuzzleContent[id]["puzzleAnswerMd5"]="b376c3cc7cdc8beaebc4c476d6e7342c";
 atoPuzzleContent[id]["puzzleHidddenMessageAes"]="U2FsdGVkX1/P8lF9ohp1qN1mP3Pkmu+o9lGZRyL0a9s=";
-atoPuzzleContent[id]["puzzleHidddenMessage3Aes"]="U2FsdGVkX1+NouoEKEd6VfSiHiOvpaV3ljyGuPvGuKhBrC9abOEMvUSBv44oHbfgmHBBykf7xHWXU8zxY4hvU9IdgXiGoYAs/mF/S4WOrmHuVkiCyJMxIFZgoab75i/AGc2vLNOzoAfeIAXikR9cEeMSsirIVs1vnHqR54QW78Y=";
+atoPuzzleContent[id]["puzzleHidddenMessage3Aes"]="U2FsdGVkX19SbHBgObv3ELqMIpz7XsYgYzQtPG057VWacMQmHLEZbN5bif2lC7vcYeAV0EsgLSOKn3fKk4Q0i/CW4PizGvexnRCZ3j8VQuJiNRbDNoG7nLij0JnS62HL1pAycazGRH9i1xdxLGqw3Y3XGG/evsmL+bCagIJUwg0=";
 atoPuzzleContent[id]["puzzleIframeUrl"]="https://www.google.com/maps/embed?pb=!4v1663137065595!6m8!1m7!1sX-inLStcSn7NMhbA2CG10Q!2m2!1d38.70559264868053!2d-9.154975189174879!3f214.51706538307883!4f4.1148656739510585!5f0.7820865974627469";
 
 id="vision";
