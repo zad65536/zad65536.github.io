@@ -63,8 +63,8 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0914-1010-GMT";
 
 id="nigeria";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=5;
-atoPuzzleStatus[id]["ifOpenForClaiming"]="no";
+atoPuzzleStatus[id]["confirmedWinners"]=4;
+atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
 atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-2359-GMT";
 
 id="vietnam";
@@ -177,6 +177,6 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1053-GMT";
 
 id="roketo";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=8;
-atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-1638-GMT";
+atoPuzzleStatus[id]["confirmedWinners"]=10;
+atoPuzzleStatus[id]["ifOpenForClaiming"]="no";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0915-0530-GMT";
