@@ -87,9 +87,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0914-1010-GMT";
 
 id="france";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=3;
+atoPuzzleStatus[id]["confirmedWinners"]=4;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0916-0300-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0916-1726-GMT";
 
 id="paras";
 atoPuzzleStatus[id] = new Object();
@@ -105,15 +105,15 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-1630-GMT";
 
 id="ref";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=2;
+atoPuzzleStatus[id]["confirmedWinners"]=3;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0916-0300-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0916-1728-GMT";
 
 id="skyward";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=1;
+atoPuzzleStatus[id]["confirmedWinners"]=2;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0916-0300-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0916-1728-GMT";
 
 id="starter";
 atoPuzzleStatus[id] = new Object();
@@ -123,9 +123,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0912-1630-GMT";
 
 id="stars";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=1;
+atoPuzzleStatus[id]["confirmedWinners"]=2;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0916-0300-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0916-1727-GMT";
 
 id="aurora";
 atoPuzzleStatus[id] = new Object();
@@ -135,9 +135,9 @@ atoPuzzleStatus[id]["lastUpdateTime"]="2022-0911-1053-GMT";
 
 id="foundation";
 atoPuzzleStatus[id] = new Object();
-atoPuzzleStatus[id]["confirmedWinners"]=33;
+atoPuzzleStatus[id]["confirmedWinners"]=35;
 atoPuzzleStatus[id]["ifOpenForClaiming"]="yes";
-atoPuzzleStatus[id]["lastUpdateTime"]="2022-0916-0300-GMT";
+atoPuzzleStatus[id]["lastUpdateTime"]="2022-0916-1728-GMT";
 
 id="vision";
 atoPuzzleStatus[id] = new Object();
